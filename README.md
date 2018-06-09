@@ -5,7 +5,7 @@ This built using normal create-react-app and electron-quick-start. No need to ej
 
 I've done all the work of mashing all the code together to make it work as you'd expect.
 
-To get started clone the repository onto your local machine and run:
+To get started clone the repository onto your local machine and run: <br />
 `npm install`
 
 then to launch the dev environment
