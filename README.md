@@ -18,7 +18,9 @@ I just put this together so I'll probably have a few more updates as I experimen
 
 Big thanks to Christian Sepulveda for providing a great tutorial.
 
-I left in the default create-react-app readme material because it valuable to have and still applicable here. 
+I left in the default create-react-app readme material because it valuable to have and still applicable here.
+
+Create-React-App Readme
 --
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
