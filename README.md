@@ -1,7 +1,7 @@
 ## React Electron Boilerplate
 
 This boilerplate is specifically for building desktop applications using react in electron.
-This built using normal create-react-app and electron-quick-start. No need to eject react!
+This is built using normal create-react-app and electron-quick-start. No need to eject react!
 
 I've done all the work of mashing all the code together to make it work as you'd expect.
 
